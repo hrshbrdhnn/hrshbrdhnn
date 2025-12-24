@@ -1,9 +1,9 @@
 <p align="center">
 <img src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png" alt="Banner by halfrost">
-<!--<a href="https://www.linkedin.com/in/harsshhhgit/" target="_blank"><img src="https://github.com/harsshhhgit/harsshhhgit/blob/main/BannerHighResGithub.png" alt="banner"></a>-->
+<!--<a href="https://www.linkedin.com/in/hrshbrdhnn/" target="_blank"><img src="https://github.com/hrshbrdhnn/hrshbrdhnn/blob/main/BannerHighResGithub.png" alt="banner"></a>-->
 </p>
 
-## Namaste <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, It's [Harsh!<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30">](https://g.dev/harsshhhgit)
+## Namaste <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, It's [Harsh!<img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="30">](https://g.dev/hrshbrdhnn)
 Ever since I joined GitHub 3 years ago, I pushed 1544 commits, opened 15 issues, submitted 68 pull requests, created 86 personal projects, and contributed to 0 public repositories.<br>
 <a href = "https://www.linkedin.com/in/harsshhhin"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> <a href = "https://twitter.com/harsshhhtwt"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
@@ -17,8 +17,8 @@ Ever since I joined GitHub 3 years ago, I pushed 1544 commits, opened 15 issues,
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.2%25)
  -->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=harsshhhgit.harsshhhgit)<br>
-![visitors](https://count.getloli.com/get/@harsshhhgit.github.readme)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=hrshbrdhnn.hrshbrdhnn)<br>
+![visitors](https://count.getloli.com/get/@hrshbrdhnn.github.readme)
 
 ### 🛠 Frameworks and Tools I'm interested in
 
@@ -36,14 +36,14 @@ Ever since I joined GitHub 3 years ago, I pushed 1544 commits, opened 15 issues,
 <a href="https://sass-lang.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="48" height="48" /></a>
 
 ### 📈 Github Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=harsshhhgit&theme=react-dark&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=hrshbrdhnn&theme=react-dark&hide_border=true)
 
 ### ⚙️ Github Analytics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harsshhhgit&show_icons=true&theme=radical&hide_border=true&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harsshhhgit&theme=radical&hide_border=true" />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsshhhgit&layout=compact&theme=radical&hide_border=true&show_icons=true" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsshhhgit&theme=radical" /> -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hrshbrdhnn&show_icons=true&theme=radical&hide_border=true&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hrshbrdhnn&theme=radical&hide_border=true" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrshbrdhnn&layout=compact&theme=radical&hide_border=true&show_icons=true" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrshbrdhnn&theme=radical" /> -->
 </p>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
